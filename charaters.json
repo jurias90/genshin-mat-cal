@@ -1,0 +1,542 @@
+{
+    "characters": [
+        {
+            "name": "Albedo",
+            "img": "https://img.game8.co/3310758/429ff8386dab8be2f4b1de43ac783f19.png/show",
+            "element": "Geo",
+            "weapon-type": "Sword",
+            "stars": 5,
+            "talentMats": {
+                "book": "Ballad",
+                "monsterDrop": "Scroll",
+                "bossDrop": "Tusk"
+            },
+            "ascensionMats": {
+                "fragments": "Topaz",
+                "bossItem": "Basalt Pillar",
+                "worldItem": "Cecilia",
+                "monsterDrops": "Scrolls"
+            }
+        },
+        {
+            "name": "Amber",
+            "img": "https://img.game8.co/3294971/3c86f28546a768018df49960a15652bf.png/show",
+            "element": "Pyro",
+            "weaponType": "Bow",
+            "stars": 4,
+            "talentMats": {
+                "book": "Freedom",
+                "monsterDrop": "Arrowhead",
+                "bossDrop": "Sigh"
+            },
+            "ascensionMats": {
+                "fragments": "Agate",
+                "bossItem": "Everflame Seed",
+                "worldItem": "Small Lamp Grass",
+                "monsterDrops": "Arrowhead"
+            }
+        },
+        {
+            "name": "Barbara",
+            "img": "https://img.game8.co/3294974/5e203f4ca8c30907bae5ad23432d6047.png/show",
+            "element": "Hydro",
+            "weaponType": "Catalyst",
+            "stars": 4,
+            "talentMats": {
+                "book": "Freedom",
+                "monsterDrop": "Scroll",
+                "bossDrop": "Ring"
+            },
+            "ascensionMats": {
+                "fragments": "Lazurite",
+                "bossItem": "Cleansing Heart",
+                "worldItem": "Philanemo Mushroom",
+                "monsterDrops": "Scroll"
+            }
+        },
+        {
+            "name": "Beidou",
+            "img": "https://img.game8.co/3294990/3269f50c780182e3fd1860d45189d742.png/show",
+            "element": "Electro",
+            "stars": 4,
+            "weaponType": "Claymore",
+            "talentMats": {
+                "book": "Gold",
+                "monsterDrop": "cInsignia",
+                "bossDrop": "Sigh"
+            },
+            "ascensionMats": {
+                "fragments": "Amethyst",
+                "bossItem": "Lighting Prism",
+                "worldItem": "Noctilucous Jade",
+                "monsterDrops": "cInsignia"
+            }
+        },
+        {
+            "name": "Bennet",
+            "img": "https://img.game8.co/3294999/853d5357be63f501a600fc776eb27256.png/show",
+            "element": "Pyro",
+            "stars": 0,
+            "weaponType": "Sword",
+            "talentMats": {
+                "book": "Resistance",
+                "monsterDrop": "cInsignia",
+                "bossDrop": "Plume"
+            },
+            "ascensionMats": {
+                "fragments": "Agate",
+                "bossItem": "Everflame Seed",
+                "worldItem": "Windwheel Aster",
+                "monsterDrops": "cInsignia"
+            }
+        },
+        {
+            "name": "Chungyun",
+            "img": "https://img.game8.co/3294995/fee596e42fda91cf32e9a7909a3d8f55.png/show",
+            "element": "Cryo",
+            "stars": 4,
+            "weaponType": "Claymore",
+            "talentMats": {
+                "book": "Diligence",
+                "monsterDrop": "Mask",
+                "bossDrop": "Sigh"
+            },
+            "ascensionMats": {
+                "fragments": "Jade",
+                "bossItem": "Hoarfrost Core",
+                "worldItem": "Cor Lapis",
+                "monsterDrops": "Mask"
+            }
+        },
+        {
+            "name": "Diluc",
+            "img": "https://img.game8.co/3294975/7a7f2b46d26c4458250f8fcaca0ca94c.png/show",
+            "element": "Pyro",
+            "stars": 5,
+            "weaponType": "Claymore",
+            "talentMats": {
+                "book": "Resistance",
+                "monsterDrop": "eInsignia",
+                "bossDrop": "Plume"
+            },
+            "ascensionMats": {
+                "fragments": "Agate",
+                "bossItem": "Ever Flame Seed",
+                "worldItem": "Small Lamp Grass",
+                "monsterDrops": "eInsignia"
+            }
+        },
+        {
+            "name": "Diona",
+            "img": "https://img.game8.co/3295326/9d64a28761fd5a9b03234493b690cfde.png/show",
+            "element": "Cryo",
+            "stars": 4,
+            "weaponType": "Bow",
+            "talentMats": {
+                "book": "Freedom",
+                "monsterDrop": "Arrowhead",
+                "bossDrop": "Shard"
+            },
+            "ascensionMats": {
+                "fragments": "Jade",
+                "bossItem": "Hoarfrost Core",
+                "worldItem": "Calla Lily",
+                "monsterDrops": "Arrowhead"
+            }
+        },
+        {
+            "name": "Fischl",
+            "img": "https://img.game8.co/3294982/edb5c8b98147514a9ce8d20888d689b6.png/show",
+            "element": "Electro",
+            "stars": 4,
+            "weaponType": "Bow",
+            "talentMats": {
+                "book": "Ballad",
+                "monsterDrop": "Arrowhead",
+                "bossDrop": "Locket"
+            },
+            "ascensionMats": {
+                "fragments": "Amethyst",
+                "bossItem": "Lightning Prism",
+                "worldItem": "Small Lamp Grass",
+                "monsterDrops": "Arrowhead"
+            }
+        },
+        {
+            "name": "Ganyu",
+            "img": "https://img.game8.co/3317298/8a6ff657aae195d782276029ad880c34.png/show",
+            "element": "Cryo",
+            "stars": 5,
+            "weaponType": "Bow",
+            "talentMats": {
+                "book": "Diligence",
+                "monsterDrop": "Nectar",
+                "bossDrop": "Shadow"
+            },
+            "ascensionMats": {
+                "fragments": "Jade",
+                "bossItem": "Hoarfrost Core",
+                "worldItem": "Qingxin",
+                "monsterDrops": "Nectar"
+            }
+        },
+        {
+            "name": "Jean",
+            "img": "https://img.game8.co/3294970/8416650b93b606f33e2411387dabf550.png/show",
+            "element": "Anemo",
+            "stars": 5,
+            "weaponType": "Sword",
+            "talentMats": {
+                "book": "Resistance",
+                "monsterDrop": "Mask",
+                "bossDrop": "Plume"
+            },
+            "ascensionMats": {
+                "fragments": "Turqoise",
+                "bossItem": "Hurricane Seed",
+                "worldItem": "Dandelion Seed",
+                "monsterDrops": "Mask"
+            }
+        },
+        {
+            "name": "Kaeya",
+            "img": "https://img.game8.co/3294973/b2a3d5ca1d6d4cb47acedfa8a64375ca.png/show",
+            "element": "Cryo",
+            "stars": 4,
+            "weaponType": "Sword",
+            "talentMats": {
+                "book": "Ballad",
+                "monsterDrop": "cInsignia",
+                "bossDrop": "Locket"
+            },
+            "ascensionMats": {
+                "fragments": "Jade",
+                "bossItem": "Hoarfrost Core",
+                "worldItem": "Calla Lilly",
+                "monsterDrops": "cInsignia"
+            }
+        },
+        {
+            "name": "Keqing",
+            "img": "https://img.game8.co/3294997/b30e3834cd4ed13eb7c48dbca7d1d2f1.png/show",
+            "element": "Electro",
+            "stars": 5,
+            "weaponType": "Sword",
+            "talentMats": {
+                "book": "Prosperity",
+                "monsterDrop": "Nectar",
+                "bossDrop": "Ring"
+            },
+            "ascensionMats": {
+                "fragments": "Amethyst",
+                "bossItem": "Lightning Prism",
+                "worldItem": "Cor Lapis",
+                "monsterDrops": "Nectar"
+            }
+        },
+        {
+            "name": "Klee",
+            "img": "https://img.game8.co/3294978/e0194d396700c3add4ec1b95ddce41f0.png/show",
+            "element": "Pyro",
+            "stars": 5,
+            "weaponType": "Catalyst",
+            "talentMats": {
+                "book": "Freedom",
+                "monsterDrop": "Scroll",
+                "bossDrop": "Ring"
+            },
+            "ascensionMats": {
+                "fragments": "Agate",
+                "bossItem": "Everflame Seed",
+                "worldItem": "Philanemo Mushroom",
+                "monsterDrops": "Scroll"
+            }
+        },
+        {
+            "name": "Lisa",
+            "img": "https://img.game8.co/3294972/ee211ef041897cd2f129ef320e21a9f0.png/show",
+            "element": "Electro",
+            "stars": 4,
+            "weaponType": "Catalyst",
+            "talentMats": {
+                "book": "Ballad",
+                "monsterDrop": "Slime",
+                "bossDrop": "Claw"
+            },
+            "ascensionMats": {
+                "fragments": "Amethyst",
+                "bossItem": "Lightning Prism",
+                "worldItem": "Valberry",
+                "monsterDrops": "Slime"
+            }
+        },
+        {
+            "name": "Mona",
+            "img": "https://img.game8.co/3294986/edda48bf6a0908f1f00fe3211da8fd09.png/show",
+            "element": "Hydro",
+            "stars": 5,
+            "weaponType": "Catalyst",
+            "talentMats": {
+                "book": "Resistance",
+                "monsterDrop": "Nectar",
+                "bossDrop": "Ring"
+            },
+            "ascensionMats": {
+                "fragments": "Lazurite",
+                "bossItem": "Cleansing Heart",
+                "worldItem": "Philanemo Mushromm",
+                "monsterDrops": "Nectar"
+            }
+        },
+        {
+            "name": "Nigguang",
+            "img": "https://img.game8.co/3294992/4409701c15b04ff1a597817eb2883544.png/show",
+            "element": "Geo",
+            "stars": 4,
+            "weaponType": "Catalyst",
+            "talentMats": {
+                "book": "Prosperity",
+                "monsterDrop": "eInsignia",
+                "bossDrop": "Locket"
+            },
+            "ascensionMats": {
+                "fragments": "Topaz",
+                "bossItem": "Basalt Pillar",
+                "worldItem": "Glaze Lilly",
+                "monsterDrops": "eInsignia"
+            }
+        },
+        {
+            "name": "Noelle",
+            "img": "https://img.game8.co/3295000/c61fa6632aeb5564203541e9c59f15f1.png/show",
+            "element": "Geo",
+            "stars": 4,
+            "weaponType": "Claymore",
+            "talentMats": {
+                "book": "Resistance",
+                "monsterDrop": "Mask",
+                "bossDrop": "Claw"
+            },
+            "ascensionMats": {
+                "fragments": "Topaz",
+                "bossItem": "Basalt Pillar",
+                "worldItem": "Valberry",
+                "monsterDrops": "Mask"
+            }
+        },
+        {
+            "name": "Qiqi",
+            "img": "https://img.game8.co/3294996/af8d32be60362056ffcfd333e1fab761.png/show",
+            "element": "Cryo",
+            "stars": 5,
+            "weaponType": "Sword",
+            "talentMats": {
+                "book": "Prosperity",
+                "monsterDrop": "Scroll",
+                "bossDrop": "Tail"
+            },
+            "ascensionMats": {
+                "fragments": "Jade",
+                "bossItem": "Hoarfrost Core",
+                "worldItem": "Violetgrass",
+                "monsterDrops": "Scroll"
+            }
+        },
+        {
+            "name": "Razor",
+            "img": "https://img.game8.co/3294976/698d06f42b22301950f6eeda34cc9a37.png/show",
+            "element": "Electro",
+            "stars": 4,
+            "weaponType": "Claymore",
+            "talentMats": {
+                "book": "Resistance",
+                "monsterDrop": "Mask",
+                "bossDrop": "Claw"
+            },
+            "ascensionMats": {
+                "fragments": "Amethyst",
+                "bossItem": "Lightning Prism",
+                "worldItem": "Wolfhook",
+                "monsterDrops": "Mask"
+            }
+        },
+        {
+            "name": "Sucrose",
+            "img": "https://img.game8.co/3294983/a87fb8809f1abed3f0f01cb17cc6e791.png/show",
+            "element": "Anemo",
+            "stars": 4,
+            "weaponType": "Catalyst",
+            "talentMats": {
+                "book": "Freedom",
+                "monsterDrop": "Nectar",
+                "bossDrop": "Locket"
+            },
+            "ascensionMats": {
+                "fragments": "Turqoise",
+                "bossItem": "Hurricane Seed",
+                "worldItem": "Windwheel Aster",
+                "monsterDrops": "Nectar"
+            }
+        },
+        {
+            "name": "Tartagalia",
+            "img": "https://img.game8.co/3295009/47a42db3c2736ef309028ccbd3cfb5cf.png/show",
+            "element": "Hydro",
+            "stars": 5,
+            "weaponType": "Bow",
+            "talentMats": {
+                "book": "Freedom",
+                "monsterDrop": "eInsignia",
+                "bossDrop": "Shard"
+            },
+            "ascensionMats": {
+                "fragments": "Lazurite",
+                "bossItem": "Cleansing Heart",
+                "worldItem": "Starconch",
+                "monsterDrops": "eInsignia"
+            }
+        },
+        {
+            "name": "Traveler (Anemo)",
+            "img": "https://img.game8.co/3295327/61f67b7b1d3936b29c591dee3c364e54.png/show",
+            "element": "Anemo",
+            "stars": 4,
+            "weaponType": "Sword",
+            "talentMats": {
+                "book": [
+                    "Teachings of Freedom",
+                    "Guide to Freedom",
+                    "Guide to Resistance",
+                    "Guide to Ballad",
+                    "Pilosophies of Freedom",
+                    "Philosophies of Resistance",
+                    "Pilosophies of Ballad"
+                ],
+                "monsterDrop": "Scroll",
+                "bossDrop": "Sigh"
+            },
+            "ascensionMats": {
+                "fragments": "Diamond",
+                "bossItem": null,
+                "worldItem": "Windwheel Aster",
+                "monsterDrops": "Mask"
+            }
+        },
+        {
+            "name": "Traveler (Geo)",
+            "img": "https://img.game8.co/3295325/4f67bcb17d9909a304d7b7025e0481b3.png/show",
+            "element": "Geo",
+            "stars": 4,
+            "weaponType": "Sword",
+            "talentMats": {
+                "book": [
+                    "Teachings of Freedom",
+                    "Guide to Freedom",
+                    "Guide to Resistance",
+                    "Guide to Ballad",
+                    "Pilosophies of Freedom",
+                    "Philosophies of Resistance",
+                    "Pilosophies of Ballad"
+                ],
+                "monsterDrop": "Mask",
+                "bossDrop": "Sigh"
+            },
+            "ascensionMats": {
+                "fragments": "Diamond",
+                "bossItem": null,
+                "worldItem": "Windwheel Aster",
+                "monsterDrops": "Mask"
+            }
+        },
+        {
+            "name": "Venti",
+            "img": "https://img.game8.co/3294977/da7d112f0f9c44f8d123cc533a3317a8.png/show",
+            "element": "Anemo",
+            "stars": 5,
+            "weaponType": "Bow",
+            "talentMats": {
+                "book": "Ballad",
+                "monsterDrop": "Slime",
+                "bossDrop": "Tail"
+            },
+            "ascensionMats": {
+                "fragments": "Turqoise",
+                "bossItem": "Hurricane Seed",
+                "worldItem": "Cecilia",
+                "monsterDrops": "Slime"
+            }
+        },
+        {
+            "name": "Xiangling",
+            "img": "https://img.game8.co/3294993/cade13884333f5388bf84bfb14f08deb.png/show",
+            "element": "Pyro",
+            "stars": 4,
+            "weaponType": "Spear",
+            "talentMats": {
+                "book": "Diligence",
+                "monsterDrop": "Slime",
+                "bossDrop": "Claw"
+            },
+            "ascensionMats": {
+                "fragments": "Agate",
+                "bossItem": "Everflame Seed",
+                "worldItem": "Jueyun Chili",
+                "monsterDrops": "Slime"
+            }
+        },
+        {
+            "name": "Xingqiu",
+            "img": "https://img.game8.co/3294994/78be634e3a6f78d37e12b16e572762ef.png/show",
+            "element": "Hydro",
+            "stars": 4,
+            "weaponType": "Sword",
+            "talentMats": {
+                "book": "Gold",
+                "monsterDrop": "Mask",
+                "bossDrop": "Tusk"
+            },
+            "ascensionMats": {
+                "fragments": "Lazurite",
+                "bossItem": "Cleansing Heart",
+                "worldItem": "Silk Flower",
+                "monsterDrops": "Mask"
+            }
+        },
+        {
+            "name": "Xinyan",
+            "img": "https://img.game8.co/3301616/50f3ae6dfc1a4aa34d9a80d1aef95027.png/show",
+            "element": "Pyro",
+            "stars": 4,
+            "weaponType": "Claymore",
+            "talentMats": {
+                "book": "Gold",
+                "monsterDrop": "cInsignia",
+                "bossDrop": "Tusk"
+            },
+            "ascensionMats": {
+                "fragments": "Agate",
+                "bossItem": "Everflame Seed",
+                "worldItem": "Violetgrass",
+                "monsterDrops": "cInsignia"
+            }
+        },
+        {
+            "name": "Zhongli",
+            "img": "https://img.game8.co/3300497/33da5700d1749ceecbea9369809c706d.png/show",
+            "element": "Geo",
+            "stars": 5,
+            "weaponType": "Spear",
+            "talentMats": {
+                "book": "Gold",
+                "monsterDrop": "Slime",
+                "bossDrop": "Tusk"
+            },
+            "ascensionMats": {
+                "fragments": "Topaz",
+                "bossItem": "Basalt Pillar",
+                "worldItem": "Cor Lapis",
+                "monsterDrops": "Slime"
+            }
+        }
+    ]
+}

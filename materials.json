@@ -1,0 +1,156 @@
+{
+    "book": {
+        "Freedom": [
+            "Teachings of Freedom",
+            "Guide to Freedom",
+            "Philosophies of Freedom"
+        ],
+        "Resistance": [
+            "Teachings of Resistance",
+            "Guide to Resistance",
+            "Philosophies of Resistance"
+        ],
+        "Ballad": [
+            "Teachings of Ballad",
+            "Guide to Ballad",
+            "Philosophies of Ballad"
+        ],
+        "Prosperity": [
+            "Teachings of Prosperity",
+            "Guide to Prosperity",
+            "Philosophies of Prosperity"
+        ],
+        "Diligence": [
+            "Teachings of Diligence",
+            "Guide to Diligence",
+            "Philosophies of Diligence"
+        ],
+        "Gold": [
+            "Teachings of Gold",
+            "Guide to Gold",
+            "Philosophies of Gold"
+        ]
+    },
+    "bossDrop": {
+        "Tail": "Tail of Boreas",
+        "Ring": "Ring of Boreas",
+        "Locket": "Spirit Locket of Boreas",
+        "Plume": "Dvalin's Plume",
+        "Claw": "Dvalin's Claw",
+        "Sigh": "Dvalin's Sigh",
+        "Tusk": "Tusk of Monoceros Caeli",
+        "Shard": "Shard of a Foul Legacy",
+        "Shadow": "Shadow of the Warrior"
+    },
+    "Special": {
+        "Crown": "Crown of Insight"
+    },
+    "fragments": {
+        "Diamond": [
+            "Briliant Diamond Sliver",
+            "Briliant Diamond Fragment",
+            "Briliant Diamond Chunk",
+            "Briliant Diamond Gemstone"
+        ],
+        "Turquoise": [
+            "Vayuda Turquoise Sliver",
+            "Vayuda Turquoise Fragment",
+            "Vayuda Turquoise Chunk",
+            "Vayuda Turquoise Gemstone"
+        ],
+        "Jade": [
+            "Shivada Jade Sliver",
+            "Shivada Jade Fragment",
+            "Shivada Jade Chunk",
+            "Shivada Jade Gemstone"
+        ],
+        "Amethyst": [
+            "Vajrada Amethyst Sliver",
+            "Vajrada Amethyst Fragment",
+            "Vajrada Amethyst Chunk",
+            "Vajrada Amethyst Gemstone"
+        ],
+        "Topaz": [
+            "Prithiva Topaz Sliver",
+            "Prithiva Topaz Fragment",
+            "Prithiva Topaz Chunk",
+            "Prithiva Topaz Gemstone"
+        ],
+        "Lazurite": [
+            "Varunada Lazurite Sliver",
+            "Varunada Lazurite Fragment",
+            "Varunada Lazurite Chunk",
+            "Varunada Lazurite Gemstone"
+        ],
+        "Agate": [
+            "Agnidus Agate Sliver",
+            "Agnidus Agate Fragment",
+            "Agnidus Agate Chunk",
+            "Agnidus Agate Gemstone"
+        ]
+    },
+    "monsterDrop": {
+        "Slime": [
+            "Slime Condensate",
+            "Slime Secretions",
+            "Slime Concentrate"
+        ],
+        "Mask": [
+            "Damaged Mask",
+            "Stained Mask",
+            "Ominous Mask"
+        ],
+        "Arrowhead": [
+            "Firm Arrowhead",
+            "Sharp Arrowhead",
+            "Weathered Arrowhead"
+        ],
+        "Scroll": [
+            "Divining Scroll",
+            "Sealed Scroll",
+            "Forbidden Curse Scroll"
+        ],
+        "cInsignia": [
+            "Treasure Hoarder Insignia",
+            "Silver Raven Insignia",
+            "Golden Raven Insignia"
+        ],
+        "eInsignia": [
+            "Recruit's Insignia",
+            "Sergeant's Insignia",
+            "Lieutenant's Insignia"
+        ],
+        "Nectar": [
+            "Whopperflower Nectar",
+            "Shimmering Nectar",
+            "Energy Nectar"
+        ]
+    },
+    "eliteDrop": {
+        "Horn": [
+            "Heavy Horn",
+            "Black Bronze Horn",
+            "Black Crystal Horn"
+        ],"Ley":[
+            "Dead Ley Line Branch",
+            "Dead Ley Line Leaves",
+            "Ley Line Sprouts"
+        ],"Bone":[
+            "Fragile Bone Shard",
+            "Sturdy Bone Shard",
+            "Fossilized Bone Shard"
+        ],"Mist":[
+            "Mist Grass Pollen",
+            "Mist Grass",
+            "Mist Grass Wick"
+        ],"Knife":[
+            "Hunter's Sacrificial Knife",
+            "Agent's Sacrificial Knife",
+            "Inspector's Sacrificial Knife"
+        ],"Chaos":[
+            "Chaos Device",
+            "Chaos Circuit",
+            "Chaos Core"
+        ]
+    }
+}

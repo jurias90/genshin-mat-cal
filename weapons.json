@@ -1,0 +1,28 @@
+//actual object
+{
+    "Sword":{
+
+    },
+    "Spear":{
+
+    },
+    "Claymore":{
+
+    },
+    "Catalyst":{
+
+    },
+    "Bow":{
+
+    }
+
+}
+// //template
+// {
+//     "name":"",
+//     "ascensionMats":{
+//         "domainMats":"",
+//         "monsterDrop1":"",
+//         "monsterDrop2":""
+//     }
+// }

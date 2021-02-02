@@ -1,28 +1,727 @@
-//actual object
 {
-    "Sword":{
+    "data": {
+        "Sword": {
+            "5Star": [{
+                    "name": "Aquila Favonia",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Decarabian",
+                            "20-40AmountDM": 5,
+                            "40-50AmountDM": 5,
+                            "50-60AmountDM": 9,
+                            "60-70AmountDM": 5,
+                            "70-80AmountDM": 9,
+                            "80-90AmountDM": 6
+                        },
+                        "eliteDrop": {
+                            "name": "Horn",
+                            "20-40AmountED": 5,
+                            "40-50AmountED": 18,
+                            "50-60AmountED": 9,
+                            "60-70AmountED": 18,
+                            "70-80AmountED": 14,
+                            "80-90AmountED": 27
+                        },
+                        "monsterDrop": {
+                            "name": "Arrowhead",
+                            "20-40AmountMD": 3,
+                            "40-50AmountMD": 12,
+                            "50-60AmountMD": 9,
+                            "60-70AmountMD": 14,
+                            "70-80AmountMD": 9,
+                            "80-90AmountMD": 18
+                        }
+                    }
+                },
+                {
+                    "name": "Primordial Jade Cutter",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Elixir",
+                            "20-40AmountDM": 5,
+                            "40-50AmountDM": 5,
+                            "50-60AmountDM": 9,
+                            "60-70AmountDM": 5,
+                            "70-80AmountDM": 9,
+                            "80-90AmountDM": 6
+                        },
+                        "eliteDrop": {
+                            "name": "Mist",
+                            "20-40AmountED": 5,
+                            "40-50AmountED": 18,
+                            "50-60AmountED": 9,
+                            "60-70AmountED": 18,
+                            "70-80AmountED": 14,
+                            "80-90AmountED": 27
+                        },
+                        "monsterDrop": {
+                            "name": "cInsignia",
+                            "20-40AmountMD": 3,
+                            "40-50AmountMD": 12,
+                            "50-60AmountMD": 9,
+                            "60-70AmountMD": 14,
+                            "70-80AmountMD": 9,
+                            "80-90AmountMD": 18
+                        }
+                    }
+                },
+                {
+                    "name": "Skyward Blade",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Tooth",
+                            "20-40AmountDM": 5,
+                            "40-50AmountDM": 5,
+                            "50-60AmountDM": 9,
+                            "60-70AmountDM": 5,
+                            "70-80AmountDM": 9,
+                            "80-90AmountDM": 6
+                        },
+                        "eliteDrop": {
+                            "name": "Ley",
+                            "20-40AmountED": 5,
+                            "40-50AmountED": 18,
+                            "50-60AmountED": 9,
+                            "60-70AmountED": 18,
+                            "70-80AmountED": 14,
+                            "80-90AmountED": 27
+                        },
+                        "monsterDrop": {
+                            "name": "Slime",
+                            "20-40AmountMD": 3,
+                            "40-50AmountMD": 12,
+                            "50-60AmountMD": 9,
+                            "60-70AmountMD": 14,
+                            "70-80AmountMD": 9,
+                            "80-90AmountMD": 18
+                        }
+                    }
+                },
+                {
+                    "name": "Summit Shaper",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Guyun",
+                            "20-40AmountDM": 5,
+                            "40-50AmountDM": 5,
+                            "50-60AmountDM": 9,
+                            "60-70AmountDM": 5,
+                            "70-80AmountDM": 9,
+                            "80-90AmountDM": 6
+                        },
+                        "eliteDrop": {
+                            "name": "Knife",
+                            "20-40AmountED": 5,
+                            "40-50AmountED": 18,
+                            "50-60AmountED": 9,
+                            "60-70AmountED": 18,
+                            "70-80AmountED": 14,
+                            "80-90AmountED": 27
+                        },
+                        "monsterDrop": {
+                            "name": "Mask",
+                            "20-40AmountMD": 3,
+                            "40-50AmountMD": 12,
+                            "50-60AmountMD": 9,
+                            "60-70AmountMD": 14,
+                            "70-80AmountMD": 9,
+                            "80-90AmountMD": 18
+                        }
+                    }
+                }
+            ],
+            "4Star": [{
+                    "name": "Blackcliff Longsword",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Guyun",
+                            "20-40AmountDM": 3,
+                            "40-50AmountDM": 3,
+                            "50-60AmountDM": 6,
+                            "60-70AmountDM": 3,
+                            "70-80AmountDM": 6,
+                            "80-90AmountDM": 4
+                        },
+                        "eliteDrop": {
+                            "name": "Knife",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "Arrowhead",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "Favonius Sword",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Decarabian",
+                            "20-40AmountDM": 3,
+                            "40-50AmountDM": 3,
+                            "50-60AmountDM": 6,
+                            "60-70AmountDM": 3,
+                            "70-80AmountDM": 6,
+                            "80-90AmountDM": 4
+                        },
+                        "eliteDrop": {
+                            "name": "Horn",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "Arrowhead",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "Festering Desire",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Dandelion",
+                            "20-40AmountDM": 3,
+                            "40-50AmountDM": 3,
+                            "50-60AmountDM": 6,
+                            "60-70AmountDM": 3,
+                            "70-80AmountDM": 6,
+                            "80-90AmountDM": 4
+                        },
+                        "eliteDrop": {
+                            "name": "Horn",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "eInsignia",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "Iron Sting",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Aerosiderite",
+                            "20-40AmountDM": 3,
+                            "40-50AmountDM": 3,
+                            "50-60AmountDM": 6,
+                            "60-70AmountDM": 3,
+                            "70-80AmountDM": 6,
+                            "80-90AmountDM": 4
+                        },
+                        "eliteDrop": {
+                            "name": "Bone",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "Nectar",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                }, {
+                    "name": "Lion's Roar",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Guyun",
+                            "20-40AmountDM": 3,
+                            "40-50AmountDM": 3,
+                            "50-60AmountDM": 6,
+                            "60-70AmountDM": 3,
+                            "70-80AmountDM": 6,
+                            "80-90AmountDM": 4
+                        },
+                        "eliteDrop": {
+                            "name": "Knife",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "cInsignia",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "Prototype Rancor",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Elixir",
+                            "20-40AmountDM": 3,
+                            "40-50AmountDM": 3,
+                            "50-60AmountDM": 6,
+                            "60-70AmountDM": 3,
+                            "70-80AmountDM": 6,
+                            "80-90AmountDM": 4
+                        },
+                        "eliteDrop": {
+                            "name": "Mist",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "eInsignia",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "Royal Longsword",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Decarabian",
+                            "20-40AmountDM": 3,
+                            "40-50AmountDM": 3,
+                            "50-60AmountDM": 6,
+                            "60-70AmountDM": 3,
+                            "70-80AmountDM": 6,
+                            "80-90AmountDM": 4
+                        },
+                        "eliteDrop": {
+                            "name": "Horn",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "Arrowhead",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "Sacrificial Sword",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Dandelion",
+                            "20-40AmountDM": 3,
+                            "40-50AmountDM": 3,
+                            "50-60AmountDM": 6,
+                            "60-70AmountDM": 3,
+                            "70-80AmountDM": 6,
+                            "80-90AmountDM": 4
+                        },
+                        "eliteDrop": {
+                            "name": "Chaos",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "Scroll",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "Sword of Descension",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Tooth",
+                            "20-40AmountDM": 3,
+                            "40-50AmountDM": 3,
+                            "50-60AmountDM": 6,
+                            "60-70AmountDM": 3,
+                            "70-80AmountDM": 6,
+                            "80-90AmountDM": 4
+                        },
+                        "eliteDrop": {
+                            "name": "Ley",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "cInsignia",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "The Alley Flash",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Dandelion",
+                            "20-40AmountDM": 3,
+                            "40-50AmountDM": 3,
+                            "50-60AmountDM": 6,
+                            "60-70AmountDM": 3,
+                            "70-80AmountDM": 6,
+                            "80-90AmountDM": 4
+                        },
+                        "eliteDrop": {
+                            "name": "Chaos",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "Mask",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "The Black Sword",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Tooth",
+                            "20-40AmountDM": 3,
+                            "40-50AmountDM": 3,
+                            "50-60AmountDM": 6,
+                            "60-70AmountDM": 3,
+                            "70-80AmountDM": 6,
+                            "80-90AmountDM": 4
+                        },
+                        "eliteDrop": {
+                            "name": "Ley",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "Slime",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "The Flute",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Tooth",
+                            "20-40AmountDM": 3,
+                            "40-50AmountDM": 3,
+                            "50-60AmountDM": 6,
+                            "60-70AmountDM": 3,
+                            "70-80AmountDM": 6,
+                            "80-90AmountDM": 4
+                        },
+                        "eliteDrop": {
+                            "name": "Ley",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "Slime",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                }
+            ],
+            "3Star": [
+                {
+                    "name": "Cold Steel",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Decarabian",
+                            "20-40AmountDM": 2,
+                            "40-50AmountDM": 2,
+                            "50-60AmountDM": 4,
+                            "60-70AmountDM": 2,
+                            "70-80AmountDM": 4,
+                            "80-90AmountDM": 3
+                        },
+                        "eliteDrop": {
+                            "name": "Knife",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "cInsignia",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "Dark Iron Sword",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Guyun",
+                            "20-40AmountDM": 2,
+                            "40-50AmountDM": 2,
+                            "50-60AmountDM": 4,
+                            "60-70AmountDM": 2,
+                            "70-80AmountDM": 4,
+                            "80-90AmountDM": 3
+                        },
+                        "eliteDrop": {
+                            "name": "Knife",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "Mask",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "Cold Steel",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Elixir",
+                            "20-40AmountDM": 2,
+                            "40-50AmountDM": 2,
+                            "50-60AmountDM": 4,
+                            "60-70AmountDM": 2,
+                            "70-80AmountDM": 4,
+                            "80-90AmountDM": 3
+                        },
+                        "eliteDrop": {
+                            "name": "Mist",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "cInsignia",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "Harbinger of Dawn",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Tooth",
+                            "20-40AmountDM": 2,
+                            "40-50AmountDM": 2,
+                            "50-60AmountDM": 4,
+                            "60-70AmountDM": 2,
+                            "70-80AmountDM": 4,
+                            "80-90AmountDM": 3
+                        },
+                        "eliteDrop": {
+                            "name": "Ley",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "Slime",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "Skyrider Sword",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Aerosiderite",
+                            "20-40AmountDM": 2,
+                            "40-50AmountDM": 2,
+                            "50-60AmountDM": 4,
+                            "60-70AmountDM": 2,
+                            "70-80AmountDM": 4,
+                            "80-90AmountDM": 3
+                        },
+                        "eliteDrop": {
+                            "name": "Bone",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "eInsignia",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                },
+                {
+                    "name": "Traveler's Handy Sword",
+                    "ascensionMats": {
+                        "domainMats": {
+                            "name": "Dandelion",
+                            "20-40AmountDM": 2,
+                            "40-50AmountDM": 2,
+                            "50-60AmountDM": 4,
+                            "60-70AmountDM": 2,
+                            "70-80AmountDM": 4,
+                            "80-90AmountDM": 3
+                        },
+                        "eliteDrop": {
+                            "name": "Chaos",
+                            "20-40AmountED": 3,
+                            "40-50AmountED": 12,
+                            "50-60AmountED": 6,
+                            "60-70AmountED": 12,
+                            "70-80AmountED": 9,
+                            "80-90AmountED": 18
+                        },
+                        "monsterDrop": {
+                            "name": "Scroll",
+                            "20-40AmountMD": 2,
+                            "40-50AmountMD": 8,
+                            "50-60AmountMD": 6,
+                            "60-70AmountMD": 9,
+                            "70-80AmountMD": 6,
+                            "80-90AmountMD": 12
+                        }
+                    }
+                }
+            ]
+        },
 
-    },
-    "Spear":{
+        "Spear": {
 
-    },
-    "Claymore":{
+        },
+        "Claymore": {
 
-    },
-    "Catalyst":{
+        },
+        "Catalyst": {
 
-    },
-    "Bow":{
+        },
+        "Bow": {
+
+        }
 
     }
-
 }
-// //template
-// {
-//     "name":"",
-//     "ascensionMats":{
-//         "domainMats":"",
-//         "monsterDrop1":"",
-//         "monsterDrop2":""
-//     }
-// }
